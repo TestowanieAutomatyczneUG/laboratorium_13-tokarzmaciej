@@ -1,4 +1,4 @@
-Feature: Friendships
+Feature: Fizzbuzz
 
 
   Scenario: Fizzbuzz output Buzz
